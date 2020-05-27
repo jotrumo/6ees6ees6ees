@@ -1,6 +1,6 @@
 class ForagerBee extends HoneyMakerBee{
   // TODO..
-  constructor(age, color, food, job, honeyPot, canFly) {
+  constructor() {
     super();
     this.age = 10;
     this.job = 'find pollen';

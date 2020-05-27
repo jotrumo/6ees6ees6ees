@@ -1,7 +1,7 @@
 class Bee extends Grub {
   // TODO..
-  constructor(age, color, food, job) {
-    super(age, color, food);
+  constructor() {
+    super();
     this.age = 5;
     this.color = 'yellow';
     this.job = 'Keep on growing';
